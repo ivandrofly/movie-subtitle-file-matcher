@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MovieSubFileMatcher": {
+      "commandName": "Project",
+      "commandLineArgs": "-d test1 -t test2"
+    }
+  }
+}
