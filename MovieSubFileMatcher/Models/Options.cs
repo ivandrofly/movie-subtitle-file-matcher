@@ -5,7 +5,7 @@ using System.Text;
 
 namespace MovieSubFileMatcher
 {
-    class Options
+    class Options : IOptions
     {
         /// <summary>
         /// the default is that subtitle file must match movie file name
